@@ -1,0 +1,12 @@
+.Coin {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.Coin-img {
+  width: 30%;
+  margin: 5%;
+  padding: 2%;
+}
